@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ca-btn{
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
